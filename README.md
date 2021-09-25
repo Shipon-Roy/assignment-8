@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Make a Super Developer Team
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://assignment-8-6c924e.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+.HTML, CSS, Bootstrap and react using this site
+.Heare 20 developers team worked
+.you want to create a website and call our developer team.
+
 
 ### `npm start`
 
